@@ -6,6 +6,7 @@ I've built quite a few modpacks at this point (on and off of CurseForge), and I 
 
 This pack does not include any quality of life enhancements or bugfixes, as those may alter gameplay in unforeseen ways depending on how your pack is structured. This includes any Optifine/Optifine-parity mods that do not directly contribute to performance. If you are looking for an out of the box Optifine/Iris pack I'd suggest taking a look at [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
 Additionaly, this pack would not be possible without [The Useful Lists, Useful Mods git repo](https://github.com/TheUsefulLists/UsefulMods).
+The client-side packs are measured purely based on FPS, while the server-side packs are measured based on TPS, CPU, RAM, and "Gut Feel".
 
 ## The End Goal
 
