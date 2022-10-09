@@ -18,3 +18,4 @@
 * [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic)
 * [Tiquality](https://www.curseforge.com/minecraft/mc-mods/tiquality)
 * [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix)
+* [LunatriusCore](https://www.curseforge.com/minecraft/mc-mods/lunatriuscore)
