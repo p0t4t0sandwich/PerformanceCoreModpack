@@ -27,4 +27,8 @@ Just download the files and go nuts, and most importantly: test for compatibilit
 
 Same as before, test a few mods at a time, and if you find an incompatible mod, report it to the git repo with pack MC version, Mod loader, and Modpack Version and which mods are conflicting (I am not going to trial/error the whole modpack for you). We can then add that pack to the list of known conflicts, and list whatever solution is available.
 
+### Extra Suggestions
+
+If you come across mods that you think fit the overall idea of this pack, feel free to create an issue over on Gitub and we can either add it to the next build, or to a list of suggestions. 
+
 ## And ultimately, thank you to all the mod creators who have made this pack possible!
